@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" role="img" aria-label="arxiv-classifier: TinyLlama-1.1B fine-tuned to sort research papers into 11 arXiv categories.">
+  <rect width="600" height="300" rx="18" fill="#121015"/>
+  <rect x=".5" y=".5" width="599" height="299" rx="17.5" fill="none" stroke="#2A2630"/>
+  <text x="32" y="48" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8B8592">03 <tspan fill="#FF8A3D">/</tspan></text>
+  <rect x="442" y="30" width="126" height="26" rx="13" fill="none" stroke="#3A3540"/>
+  <text x="505" y="47.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#CFC6BA">pytorch · lora</text>
+  <text x="30" y="106" font-family="Georgia,'Iowan Old Style','Times New Roman',serif" font-size="38" fill="#F4EEE4" letter-spacing="-.5">arxiv-classifier</text>
+  <text x="32" y="142" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#A39CAA">TinyLlama-1.1B fine-tuned to sort research</text>
+  <text x="32" y="166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#A39CAA">papers into 11 arXiv categories.</text>
+  <line x1="32" y1="196" x2="568" y2="196" stroke="#2A2630" stroke-dasharray="3 5"/>
+  <text x="30" y="260" font-family="Georgia,'Iowan Old Style','Times New Roman',serif" font-size="54" fill="#FF8A3D">84.3%</text>
+  <text x="221" y="238" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8B8592">test accuracy, training</text>
+  <text x="221" y="258" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8B8592">just 0.1% of the params</text>
+  <text x="568" y="258" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#CFC6BA">↗</text>
+</svg>
