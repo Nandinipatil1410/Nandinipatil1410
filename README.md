@@ -9,6 +9,8 @@
 </p>
 
 <p align="center">
+  <a href="https://nandini-patil-portfolio.onrender.com/"><b>Portfolio ↗</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Nandinipatil1410?tab=repositories"><b>All repositories ↗</b></a>
 </p>
 
@@ -38,7 +40,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/timeline.svg" width="100%" alt="The commit log. Oct 2026 why-slow, Aug 2026 Recovery Agent, May 2026 Private Assistant, Apr 2026 email-triage-env, Mar 2026 arxiv-classifier and dsv, Oct 2025 brainBoard, May 2025 RetainX, Mar 2025 AgriSeva, Sep 2024 nine tiny web apps.">
+  <img src="assets/timeline.svg" width="100%" alt="The commit log. Oct 2026 why-slow, Aug 2026 Recovery Agent, May 2026 Private Assistant, Apr 2026 email-triage-env, Mar 2026 arxiv-classifier and dsv (WCE ACM Hackathon 2026), Oct 2025 brainBoard, May 2025 RetainX, Mar 2025 AgriSeva, Sep 2024 nine tiny web apps.">
 </p>
 
 <p align="center">
@@ -53,7 +55,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/toolbox.svg" width="100%" alt="Toolbox: PyTorch, Transformers, PEFT, LoRA, TRL, scikit-learn, Ollama, RAG, Streamlit, Gradio, OpenEnv, Python, JavaScript, C, C++, React, Node.js, Express, MongoDB, Flask.">
+  <img src="assets/toolbox.svg" width="100%" alt="Toolbox: PyTorch, Transformers, PEFT, LoRA, TRL, scikit-learn, Ollama, RAG, Streamlit, Gradio, OpenEnv, OpenCV, Playwright MCP, Python, JavaScript, C, C++, React, Node.js, Express, MongoDB, Flask, pytest, Playwright, GitHub Actions, FFmpeg, Git, Linux.">
 </p>
 
 <br>
