@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 742" width="1200" height="742" role="img" aria-label="Commit log of projects from Sep 2024 hello world apps to Oct 2026 why-slow.">
+<style>
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace} .serif{font-family:Georgia,'Iowan Old Style','Times New Roman',serif} .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.rise{opacity:0;animation:rise .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.bar{transform-box:fill-box;transform-origin:50% 100%;animation:pulse 3.2s ease-in-out infinite}
+@keyframes pulse{0%,100%{transform:scaleY(.55)}50%{transform:scaleY(1)}}
+.cursor{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+</style>
+<defs><linearGradient id="ember-lilac" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#FF8A3D"/><stop offset="1" stop-color="#C98BDB"/></linearGradient><linearGradient id="vline" gradientUnits="userSpaceOnUse" x1="0" y1="132" x2="0" y2="692">
+<stop offset="0" stop-color="#FF8A3D"/><stop offset=".6" stop-color="#C98BDB"/><stop offset="1" stop-color="#C98BDB" stop-opacity=".2"/></linearGradient></defs>
+<rect width="1200" height="742" rx="22" fill="#121015"/><rect x=".5" y=".5" width="1199" height="741" rx="21.5" fill="none" stroke="#2A2630"/>
+
+<g class="rise">
+  <text x="40" y="62" class="mono" font-size="15" fill="#FF8A3D">03</text>
+  <text x="78" y="66" class="serif" font-size="34" fill="#F4EEE4" letter-spacing="-.4">The commit log</text>
+  <text x="1160" y="61" text-anchor="end" class="mono" font-size="13" fill="#8B8592">git log --author=nandini</text>
+</g>
+<line x1="349" y1="56" x2="951" y2="56" stroke="#2A2630"/>
+<line x1="349" y1="56" x2="951" y2="56" stroke="url(#ember-lilac)" stroke-width="1.4"
+      stroke-dasharray="602" stroke-dashoffset="602">
+  <animate attributeName="stroke-dashoffset" from="602" to="0" begin=".3s" dur="1.6s" fill="freeze"
+           calcMode="spline" keySplines=".2 .7 .2 1" keyTimes="0;1"/>
+</line>
+<circle cy="56" r="3.2" fill="#FF8A3D">
+  <animate attributeName="cx" values="349;951" dur="6s" begin="2s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.85;1" dur="6s" begin="2s" repeatCount="indefinite"/>
+</circle>
+<circle cx="349" cy="56" r="3.2" fill="#FF8A3D" opacity="0"/>
+<line x1="600" y1="118" x2="600" y2="678" stroke="#2A2630" stroke-width="2"/>
+<line x1="600" y1="118" x2="600" y2="678" stroke="url(#vline)" stroke-width="2" stroke-dasharray="560" stroke-dashoffset="560">
+  <animate attributeName="stroke-dashoffset" from="560" to="0" begin=".3s" dur="2.4s" fill="freeze" calcMode="spline" keySplines=".3 .6 .3 1" keyTimes="0;1"/>
+</line>
+<g class="rise" style="animation-delay:0.35s">
+  <circle cx="600" cy="126" r="6" fill="#FF8A3D" stroke="#FF8A3D" stroke-width="2"/>
+  <text x="570" y="132" text-anchor="end" class="mono" font-size="13" fill="#8B8592">Oct 2026</text>
+  <text x="630" y="132" text-anchor="start" class="serif" font-size="22" fill="#F4EEE4">why-slow</text>
+  <text x="630" y="154" text-anchor="start" class="sans" font-size="14" fill="#A39CAA">a laptop that explains its own slow moments</text>
+</g>
+<g class="rise" style="animation-delay:0.53s">
+  <circle cx="600" cy="186" r="6" fill="#121015" stroke="#FF8A3D" stroke-width="2"/>
+  <text x="630" y="192" text-anchor="start" class="mono" font-size="13" fill="#8B8592">Aug 2026</text>
+  <text x="570" y="192" text-anchor="end" class="serif" font-size="22" fill="#F4EEE4">Recovery Agent</text>
+  <text x="570" y="214" text-anchor="end" class="sans" font-size="14" fill="#A39CAA">payments agent with an audit chain, 63% recovered</text>
+</g>
+<g class="rise" style="animation-delay:0.71s">
+  <circle cx="600" cy="246" r="6" fill="#121015" stroke="#FF8A3D" stroke-width="2"/>
+  <text x="570" y="252" text-anchor="end" class="mono" font-size="13" fill="#8B8592">May 2026</text>
+  <text x="630" y="252" text-anchor="start" class="serif" font-size="22" fill="#F4EEE4">Private Assistant</text>
+  <text x="630" y="274" text-anchor="start" class="sans" font-size="14" fill="#A39CAA">chat with your PDFs, entirely on your machine</text>
+</g>
+<g class="rise" style="animation-delay:0.89s">
+  <circle cx="600" cy="306" r="6" fill="#121015" stroke="#C98BDB" stroke-width="2"/>
+  <text x="630" y="312" text-anchor="start" class="mono" font-size="13" fill="#8B8592">Apr 2026</text>
+  <text x="570" y="312" text-anchor="end" class="serif" font-size="22" fill="#F4EEE4">email-triage-env</text>
+  <text x="570" y="334" text-anchor="end" class="sans" font-size="14" fill="#A39CAA">a benchmark for LLM agents</text>
+</g>
+<g class="rise" style="animation-delay:1.07s">
+  <circle cx="600" cy="366" r="6" fill="#121015" stroke="#C98BDB" stroke-width="2"/>
+  <text x="570" y="372" text-anchor="end" class="mono" font-size="13" fill="#8B8592">Mar 2026</text>
+  <text x="630" y="372" text-anchor="start" class="serif" font-size="22" fill="#F4EEE4">arxiv-classifier</text>
+  <text x="630" y="394" text-anchor="start" class="sans" font-size="14" fill="#A39CAA">LoRA on TinyLlama, 84.3% accuracy</text>
+</g>
+<g class="rise" style="animation-delay:1.25s">
+  <circle cx="600" cy="426" r="6" fill="#121015" stroke="#C98BDB" stroke-width="2"/>
+  <text x="630" y="432" text-anchor="start" class="mono" font-size="13" fill="#8B8592">Mar 2026</text>
+  <text x="570" y="432" text-anchor="end" class="serif" font-size="22" fill="#F4EEE4">dsv</text>
+  <text x="570" y="454" text-anchor="end" class="sans" font-size="14" fill="#A39CAA">git, but for datasets, stdlib only</text>
+</g>
+<g class="rise" style="animation-delay:1.43s">
+  <circle cx="600" cy="486" r="6" fill="#121015" stroke="#C98BDB" stroke-width="2"/>
+  <text x="570" y="492" text-anchor="end" class="mono" font-size="13" fill="#8B8592">Oct 2025</text>
+  <text x="630" y="492" text-anchor="start" class="serif" font-size="22" fill="#F4EEE4">brainBoard</text>
+  <text x="630" y="514" text-anchor="start" class="sans" font-size="14" fill="#A39CAA">first full stack MERN app, deployed</text>
+</g>
+<g class="rise" style="animation-delay:1.61s">
+  <circle cx="600" cy="546" r="6" fill="#121015" stroke="#C98BDB" stroke-width="2"/>
+  <text x="630" y="552" text-anchor="start" class="mono" font-size="13" fill="#8B8592">May 2025</text>
+  <text x="570" y="552" text-anchor="end" class="serif" font-size="22" fill="#F4EEE4">RetainX</text>
+  <text x="570" y="574" text-anchor="end" class="sans" font-size="14" fill="#A39CAA">first ML model behind a real UI</text>
+</g>
+<g class="rise" style="animation-delay:1.79s">
+  <circle cx="600" cy="606" r="6" fill="#121015" stroke="#C98BDB" stroke-width="2"/>
+  <text x="570" y="612" text-anchor="end" class="mono" font-size="13" fill="#8B8592">Mar 2025</text>
+  <text x="630" y="612" text-anchor="start" class="serif" font-size="22" fill="#F4EEE4">AgriSeva</text>
+  <text x="630" y="634" text-anchor="start" class="sans" font-size="14" fill="#A39CAA">WCE ACM Hackathon with Team Anvesha</text>
+</g>
+<g class="rise" style="animation-delay:1.97s">
+  <circle cx="600" cy="666" r="6" fill="#121015" stroke="#C98BDB" stroke-width="2"/>
+  <text x="630" y="672" text-anchor="start" class="mono" font-size="13" fill="#8B8592">Sep 2024</text>
+  <text x="570" y="672" text-anchor="end" class="serif" font-size="22" fill="#F4EEE4">hello, world</text>
+  <text x="570" y="694" text-anchor="end" class="sans" font-size="14" fill="#A39CAA">nine tiny web apps in three months</text>
+</g>
+<circle cx="600" cy="126" r="6" fill="none" stroke="#FF8A3D" stroke-width="2">
+  <animate attributeName="r" values="6;18" dur="2.2s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".9;0" dur="2.2s" repeatCount="indefinite"/>
+</circle>
+<text x="570" y="148" text-anchor="end" class="mono" font-size="11" fill="#FF8A3D">HEAD</text>
+</svg>

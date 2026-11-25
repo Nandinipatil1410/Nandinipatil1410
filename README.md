@@ -1,100 +1,69 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Nandini Patil — I build AI that keeps your data on your laptop, and agents that know when to stop.">
+  <img src="assets/header.svg" width="100%" alt="Nandini Patil. I build AI that keeps your data on your laptop, and agents that know when to stop.">
+</p>
+
+<p align="center">
+  Most AI tools ask you to upload your life first. I like building the other kind:<br>
+  a model that runs on your own machine, an agent that writes down every decision it makes,<br>
+  and an app that tells you what went wrong in a sentence instead of a chart.
+</p>
+
+<p align="center">
+  <a href="https://huggingface.co/nandini1410"><b>Hugging Face ↗</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Nandinipatil1410?tab=repositories"><b>All repositories ↗</b></a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="assets/rules.svg" width="100%" alt="Three rules I build by. Data stays home: if a laptop can do the job, the cloud never sees the file. Agents need brakes: every move fits a written policy, every step lands in an audit log. Say it plainly: Chrome used 3 GB, not its usual 1.2, beats any CPU graph.">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="assets/work.svg" width="100%" alt="Selected work">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nandinipatil1410/why-slow"><img src="assets/card-01.svg" width="49%" alt="why-slow: tells you why your laptop was slow, in plain words"></a>
+  <a href="https://github.com/Nandinipatil1410/mandate-step-up-recovery-agent"><img src="assets/card-02.svg" width="49%" alt="Mandate Step-up Recovery Agent: recovers failed recurring payments safely"></a>
+  <a href="https://github.com/Nandinipatil1410/arxiv-classifier"><img src="assets/card-03.svg" width="49%" alt="arXiv classifier: TinyLlama fine-tuned with LoRA, 84.3% accuracy"></a>
+  <a href="https://github.com/Nandinipatil1410/Privacy-Preserving-AI-Assistant"><img src="assets/card-04.svg" width="49%" alt="Privacy-Preserving AI Assistant: chat with private documents locally"></a>
+</p>
+
+<details>
+  <summary><b>Watch why-slow in action</b> <sub>(6 MB gif)</sub></summary>
+  <br>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Nandinipatil1410/why-slow/HEAD/docs/hero.gif" width="90%" alt="why-slow: hovering a red bar on the timeline shows CPU and RAM for that minute, and clicking it explains Chrome was using 3 GB instead of 1.2 GB.">
+  </p>
+</details>
+
+<br>
+
+<p align="center">
+  <img src="assets/timeline.svg" width="100%" alt="The commit log. Oct 2026 why-slow, Aug 2026 Recovery Agent, May 2026 Private Assistant, Apr 2026 email-triage-env, Mar 2026 arxiv-classifier and dsv, Oct 2025 brainBoard, May 2025 RetainX, Mar 2025 AgriSeva, Sep 2024 nine tiny web apps.">
 </p>
 
 <p align="center">
   <sub>
-    <a href="#-three-rules-i-build-by">rules</a> &nbsp;·&nbsp;
-    <a href="#-selected-work">work</a> &nbsp;·&nbsp;
-    <a href="#-git-log---authornandini">log</a> &nbsp;·&nbsp;
-    <a href="#-toolbox">toolbox</a> &nbsp;·&nbsp;
-    <a href="https://huggingface.co/nandini1410">🤗 hugging face</a>
+    Try them live:
+    <a href="https://retainx-f90n.onrender.com/">RetainX</a>,
+    <a href="https://brainboardnotes.onrender.com/">brainBoard</a>,
+    <a href="https://agriseva.vercel.app">AgriSeva</a>
   </sub>
 </p>
 
 <br>
 
-Most AI tools ask you to upload your life first. I like building the other kind: a model that runs on your own machine, an agent that writes down every decision it makes, and an app that tells you what went wrong in a sentence instead of a chart.
-
-<br>
-
-## ◇ three rules I build by
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>01 · Data stays home.</b><br>
-      <sub>If a laptop can do the job, the cloud doesn't get the file. <a href="https://github.com/Nandinipatil1410/why-slow">why-slow</a> and my <a href="https://github.com/Nandinipatil1410/Privacy-Preserving-AI-Assistant">document assistant</a> both work fully offline.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>02 · Agents need brakes.</b><br>
-      <sub>A good agent knows what it isn't allowed to do. My <a href="https://github.com/Nandinipatil1410/mandate-step-up-recovery-agent">recovery agent</a> works inside a fixed policy, hands hard cases to a person, and logs every step in a SHA-256 audit chain.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>03 · Say it plainly.</b><br>
-      <sub>"Chrome was using 3 GB instead of its usual 1.2" helps more than a CPU graph. If someone needs a manual to understand the output, I'm not done yet.</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## ◇ selected work
-
 <p align="center">
-  <a href="https://github.com/Nandinipatil1410/why-slow"><img src="assets/card-01.svg" width="49%" alt="why-slow"></a>
-  <a href="https://github.com/Nandinipatil1410/mandate-step-up-recovery-agent"><img src="assets/card-02.svg" width="49%" alt="Mandate Step-up Recovery Agent"></a>
-  <a href="https://github.com/Nandinipatil1410/arxiv-classifier"><img src="assets/card-03.svg" width="49%" alt="arXiv classifier"></a>
-  <a href="https://github.com/Nandinipatil1410/Privacy-Preserving-AI-Assistant"><img src="assets/card-04.svg" width="49%" alt="Privacy-Preserving AI Assistant"></a>
+  <img src="assets/toolbox.svg" width="100%" alt="Toolbox: PyTorch, Transformers, PEFT, LoRA, TRL, scikit-learn, Ollama, RAG, Streamlit, Gradio, OpenEnv, Python, JavaScript, C, C++, React, Node.js, Express, MongoDB, Flask.">
 </p>
 
-<details>
-  <summary><b>see why-slow in action</b> <sub>(gif, 6 MB)</sub></summary>
-  <br>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Nandinipatil1410/why-slow/HEAD/docs/hero.gif" width="90%" alt="why-slow: hovering a red bar on the timeline shows CPU and RAM for that minute; clicking it explains Chrome was using 3 GB instead of 1.2 GB.">
-  </p>
-</details>
-
-**Also built**
-
-- [**dataset-versioning-system**](https://github.com/Nandinipatil1410/dataset-versioning-system): Git for ML datasets, with hashing, lineage DAGs and a dashboard, written using only the Python standard library.
-- [**email-triage-env**](https://github.com/Nandinipatil1410/email-triage-env): an OpenEnv benchmark that tests LLM agents on sorting, prioritising and routing a realistic inbox.
-- [**RetainX**](https://github.com/Nandinipatil1410/RetainX): customer-churn prediction with a random forest behind a React front end. [live ↗](https://retainx-f90n.onrender.com/)
-- [**brainBoard**](https://github.com/Nandinipatil1410/brainBoard): a MERN notes app. [live ↗](https://brainboardnotes.onrender.com/)
-
-<br>
-
-## ◇ `git log --author=nandini`
-
-```text
-* 2026-10  why-slow            a laptop that explains its slow moments, offline
-* 2026-08  recovery-agent      bounded agent · audit chain · 63% recovered
-* 2026-05  private-assistant   chat with your PDFs, entirely on your machine
-* 2026-04  email-triage-env    a benchmark for LLM agents
-* 2026-03  arxiv-classifier    LoRA on TinyLlama → 84.3% accuracy
-* 2026-03  dsv                 git, but for datasets, stdlib only
-* 2025-10  brainBoard          first full-stack MERN app, deployed
-* 2025-05  RetainX             first ML model behind a real UI
-* 2025-03  AgriSeva            WCE ACM Hackathon · Team Anvesha
-* 2024-09  hello, world        nine tiny web apps in three months
-```
-
-<br>
-
-## ◇ toolbox
-
-| | |
-|---|---|
-| **models** | PyTorch · Hugging Face Transformers · PEFT / LoRA · TRL · scikit-learn |
-| **local AI** | Ollama · RAG · vector stores · Streamlit · Gradio |
-| **agents** | OpenEnv · policy-bounded decision loops · audit logging |
-| **web** | React · Node / Express · MongoDB · Flask |
-| **languages** | Python · JavaScript · C / C++ |
-
 <br>
 
 <p align="center">
-  <sub>Open to collaborating on local-first AI, agent evaluation, or anything that makes software easier to understand.</sub><br>
-  <sub><i>This README was not uploaded to any cloud. Well, apart from GitHub.</i></sub>
+  <img src="assets/footer.svg" width="100%" alt="Open to collaborating on local first AI, agent evaluation, or anything that makes software easier to understand.">
 </p>
