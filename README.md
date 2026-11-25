@@ -9,8 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://huggingface.co/nandini1410"><b>Hugging Face ↗</b></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Nandinipatil1410?tab=repositories"><b>All repositories ↗</b></a>
 </p>
 
@@ -33,13 +31,9 @@
   <a href="https://github.com/Nandinipatil1410/Privacy-Preserving-AI-Assistant"><img src="assets/card-04.svg" width="49%" alt="Privacy-Preserving AI Assistant: chat with private documents locally"></a>
 </p>
 
-<details>
-  <summary><b>Watch why-slow in action</b> <sub>(6 MB gif)</sub></summary>
-  <br>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Nandinipatil1410/why-slow/HEAD/docs/hero.gif" width="90%" alt="why-slow: hovering a red bar on the timeline shows CPU and RAM for that minute, and clicking it explains Chrome was using 3 GB instead of 1.2 GB.">
-  </p>
-</details>
+<p align="center">
+  <a href="https://github.com/Nandinipatil1410/why-slow"><img src="https://raw.githubusercontent.com/Nandinipatil1410/why-slow/HEAD/docs/hero.gif" width="100%" alt="why-slow: hovering a red bar on the timeline shows CPU and RAM for that minute, and clicking it explains Chrome was using 3 GB instead of 1.2 GB."></a>
+</p>
 
 <br>
 
@@ -66,4 +60,8 @@
 
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Open to collaborating on local first AI, agent evaluation, or anything that makes software easier to understand.">
+</p>
+
+<p align="center">
+  <a href="mailto:nandinipatil1410@gmail.com"><img src="assets/email.svg" width="420" alt="Email: nandinipatil1410@gmail.com"></a>
 </p>
